@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [Table Of Contents](README.md)
